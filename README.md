@@ -11,6 +11,7 @@ This project aims to explore AI-driven automation testing using **[Playwright/Se
 
 ## 📁 Project Structure
 AutomationTestingAgent/
+   ```bash
 │── .gitignore               # Ignored files (e.g., .env)
 │── agentAI.py               # AI-driven automation script
 │── agent_history.gif        # Sample test execution result
@@ -25,7 +26,7 @@ AutomationTestingAgent/
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/AutomationTestingAgent.git
+   git clone https://github.com/iamsalaheldin/AutomationTestingAgent.git
    
 2. **Install dependencies:**
    ```bash
